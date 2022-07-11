@@ -1,0 +1,1 @@
+export const users: Array<{ name: String, age: number}> = [];
